@@ -1,0 +1,20 @@
+{
+    "gourmand": [
+        "Butter nut",
+        "Choux de Bruxelle",
+        "Courgette",
+        "Pomme de terre",
+        "Radis"
+    ],
+    "moins_gourmand": [
+        "Carotte",
+        "Celeri",
+        "Poireau"
+    ],
+    "peu_exigeant": [
+        "Feve",
+        "Haricot en grain",
+        "Haricot vert",
+        "Petit pois"
+    ]
+}

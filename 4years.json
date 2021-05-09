@@ -1,0 +1,21 @@
+{
+    "Graine": [
+        "Haricot en grain",
+        "Haricots verts",
+        "Petit pois"
+    ],
+    "Fruit": [
+        "Butter nut",
+        "Courgette"
+    ],
+    "Feuille": [
+        "Celeri",
+        "Choux de Bruxelle",
+        "Poireau"
+    ],
+    "Racine": [
+        "Carotte",
+        "Pomme de terre",
+        "Radis"
+    ]
+}
